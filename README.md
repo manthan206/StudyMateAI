@@ -1,38 +1,48 @@
 # StudyMateAI 🎓
 
-AI-powered study assistant chatbot built using PHP, MySQL, HTML, CSS and JavaScript.
+AI Powered Learning Assistant
+
+## SDG Alignment
+SDG 4 - Quality Education
 
 ## Features
 
-- AI chatbot for answering student queries
-- User registration and login
-- Chat history storage
-- Subject-wise learning assistance
-- Responsive user interface
+✔ AI Chatbot
+✔ User Authentication
+✔ Chat History
+✔ Feedback System
+✔ Personalized Learning
 
-## Technologies Used
+## Technologies
 
 Frontend:
-- HTML
-- CSS
-- JavaScript
+HTML
+CSS
+JavaScript
 
 Backend:
-- PHP
+PHP
 
 Database:
-- MySQL
+MySQL
+
+AI:
+Groq API / Generative AI
 
 ## Installation
 
-1. Clone repository
+1. Install XAMPP
+2. Clone repository
+3. Import database.sql
+4. Configure config.php
+5. Run localhost
 
-2. Import database into MySQL
+## Screenshots
 
-3. Update config.php with your database credentials
+(Add project screenshots)
 
-4. Run using XAMPP server
+## Future Scope
 
-## Project Purpose
-
-StudyMateAI helps students get instant answers and improves learning through AI assistance.
+- Mobile App
+- Voice Assistant
+- Multilingual Support
